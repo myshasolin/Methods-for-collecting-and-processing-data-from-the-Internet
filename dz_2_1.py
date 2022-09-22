@@ -17,16 +17,13 @@ driver.maximize_window()
 driver.get('https://www.mvideo.ru/')
 
 step = 0
-chapter = None
 while True:
     driver.execute_script(f"window.scrollTo(0, {step})")
     step += 200
     try:
         if driver.find_element(By.XPATH, "//h2[contains(text(), 'Самые просматриваемые')]"):
-            chapter = driver.find_element(By.XPATH, "//h2[contains(text(), 'Самые просматриваемые')]")
             break
-    except Exception as e:
-        print(f'сообщеньице {e}')
+    except:
         pass
 
 names = [i.text for i in driver.find_elements(By.XPATH, ".//div[@class='product-mini-card__name ng-star-inserted']")]
