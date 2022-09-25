@@ -6,6 +6,7 @@ import scrapy
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 from scrapy.pipelines.images import ImagesPipeline
+from hardware_store_parser.spiders.castorama_ru import CastoramaRuSpider
 from pymongo import MongoClient
 import hashlib
 from scrapy.utils.python import to_bytes
@@ -41,4 +42,4 @@ class PhotosPipeline(ImagesPipeline):
 
     def file_path(self, request, response=None, info=None, *, item=None):
         image_guid = hashlib.sha1(to_bytes(request.url)).hexdigest()
-        return f"full/{item['good_name']}/{image_guid}.jpg"
+        return f"{CastoramaRuSpider.name}/{item['good_name']}/{image_guid}.jpg"
