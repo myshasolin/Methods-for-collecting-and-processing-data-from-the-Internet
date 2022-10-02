@@ -67,6 +67,8 @@ COOKIES_ENABLED = True
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    'geekbrains_parser.pipelines.GeekbrainsParserPipeline': 300,
+   'geekbrains_parser.pipelines.CSVPipeline': 300,
+
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
