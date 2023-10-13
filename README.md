@@ -19,7 +19,7 @@
       1
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/Methods-for-collecting-and-processing-data-from-the-Internet/tree/main/1%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F.%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20API">
         Основы клиент-серверного взаимодействия. Работа с API
       </a>
     </td>
@@ -38,7 +38,7 @@
       2
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/Methods-for-collecting-and-processing-data-from-the-Internet/blob/main/2%20%D0%9F%D0%B0%D1%80%D1%81%D0%B8%D0%BD%D0%B3%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.%20HTML%2C%20DOM%2C%20XPath/work_2.ipynb">
         Парсинг данных. HTML, DOM, XPath
       </a>
     </td>
@@ -56,7 +56,7 @@
       3
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/Methods-for-collecting-and-processing-data-from-the-Internet/tree/main/3%20%D0%9F%D0%B0%D1%80%D1%81%D0%B8%D0%BD%D0%B3%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.%20HTML%2C%20Beautiful%20Soap">
         Парсинг данных. HTML, Beautiful Soap
       </a>
     </td>
@@ -74,7 +74,7 @@
       4
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/Methods-for-collecting-and-processing-data-from-the-Internet/blob/main/4%20%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B1%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20MongoDB%20%D0%B2%20Python/work_4.1.ipynb">
         Система управления базами данных MongoDB в Python
       </a>
     </td>
@@ -92,7 +92,7 @@
       5
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/Methods-for-collecting-and-processing-data-from-the-Internet/tree/main/5%20%D0%9F%D0%B0%D1%80%D1%81%D0%B8%D0%BD%D0%B3%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.%20Scrapy">
         Парсинг данных. Scrapy
       </a>
     </td>
@@ -110,7 +110,7 @@
       6
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/Methods-for-collecting-and-processing-data-from-the-Internet/tree/main/6%20%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%20Scrapy%2C%20pipelines%2C%20Splash">
         Фреймворк Scrapy, pipelines, Splash
       </a>
     </td>
@@ -128,7 +128,7 @@
       7
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/Methods-for-collecting-and-processing-data-from-the-Internet/tree/main/7%20%D0%9F%D0%B0%D1%80%D1%81%D0%B8%D0%BD%D0%B3%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.%20Selenium%20%D0%B2%20Python">
         Парсинг данных. Selenium в Python
       </a>
     </td>
@@ -146,7 +146,7 @@
       8
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/Methods-for-collecting-and-processing-data-from-the-Internet/tree/main/8%20%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%20Scrapy.%20%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D0%BE%D0%B2%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F">
         Фреймворк Scrapy. Реализация механизмов клиент-серверного взаимодействия
       </a>
     </td>
@@ -164,7 +164,7 @@
       9
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/Methods-for-collecting-and-processing-data-from-the-Internet/tree/main/9%20%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20scrapy-selenuin/trainingproject">
         Библиотека scrapy-selenuin
       </a>
     </td>
@@ -182,7 +182,7 @@
       10
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/Methods-for-collecting-and-processing-data-from-the-Internet/blob/main/10%20Telegram_scraping/telegram.py">
         Дополнительно - сбор информации из Telegram
       </a>
     </td>
