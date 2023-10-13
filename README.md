@@ -1,7 +1,7 @@
 <center>
   <h2>
     <a href="https://github.com/myshasolin/recommender_systems">
-      здесь упражнения и самостоятельные проекты, выполненные в рамках курса "Методы сбора и обработки данных из сети Интернет", от простого (1) к сложному (8):
+      здесь упражнения и самостоятельные проекты, выполненные в рамках курса "Методы сбора и обработки данных из сети Интернет", от простого (1) к сложному (9):
     </a>
   </h1>
 </center>
@@ -139,7 +139,7 @@
       Сделал оба варианта, коротенькое описание, что и зачем делал, оставил в .ipynb-файле
     </td>
     <td>
-      scrapy, itemloaders, itemadapter, pymongo, hashlib, twisted, sys
+      selenium, time, pymongo, os, dotenv
   </tr>
   <tr>
     <td>
@@ -159,5 +159,40 @@
     <td>
       scrapy, itemloaders, itemadapter, pymongo, twisted, urllib, dotenv, re, os, copy, datetime
   </tr>
-
+  <tr>
+    <td>
+      9
+    </td>
+    <td>
+      <a href="#">
+        Библиотека scrapy-selenuin
+      </a>
+    </td>
+    <td>
+       Дополнительно
+    </td>
+    <td>
+      Изучал самостоятельно. Эта библиотека позволяет обойти ограничение в 50 вакансий со страницы, так как позволяет подстроиться под динамический адаптив JavaScript
+    </td>
+    <td>
+      scrapy, itemloaders, itemadapter, importlib, selenium, scrapy_selenium, pymongo, re, os, sys, csv, twisted
+  </tr>
+  <tr>
+    <td>
+      10
+    </td>
+    <td>
+      <a href="#">
+        Дополнительно - сбор информации из Telegram
+      </a>
+    </td>
+    <td>
+       Дополнительно
+    </td>
+    <td>
+      Изучал самостоятельно. Парсер довольно простой, т.к. Telegram имеет api. В закомментированных строках показываю как писать сообщения, скачивать медиа, получить список участников выбранной группы
+    </td>
+    <td>
+      telethon, dotenv, time, os
+  </tr>
 </table>

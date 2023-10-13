@@ -1,3 +1,5 @@
+# читать файл
+
 import csv
 from requests import get
 import pandas as pd
